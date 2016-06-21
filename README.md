@@ -3,12 +3,12 @@ An electron boilerplate project using PouchDB as storage engine and Material Des
 
 It comes in two flavors:
 
-* AngularJS using the Angular-Material library (**usable**)  
+* AngularJS 1.5.x using the Angular-Material 1.x library (**usable**)  
 
 ![](angularJS.png)
 
 
-* ReactJS using the Material-UI library (**ongoing**)  
+* ReactJS using the React-MDL library (**ongoing**)  
 
 ![](reactJS.png)
 
@@ -23,8 +23,6 @@ It comes in two flavors:
 * start application in debug by executing ```npm start``` in terminal
 
 ## Build Distributable Packages
-
-**PLEASE NOTE: you will need a virtual machine with the actual operating system and development tools installed to build the native packages for it**
 
 * on OS X (10.9+): creates application bundle and distributable disk image (x64 only, Mac AppStore compatible variant incl.)
 
