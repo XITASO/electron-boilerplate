@@ -3,7 +3,7 @@ An electron boilerplate project using PouchDB as storage engine and Material Des
 
 It comes in two flavors:
 
-* AngularJS 1.5.x using the Angular-Material 1.x library (**usable**)  
+* AngularJS 1.5.x using the Angular-Material 1.x library (**feature-complete**)  
 
 ![](angularJS.png)
 
